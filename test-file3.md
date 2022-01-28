@@ -1,2 +1,3 @@
-hi world! (0)
-helloooo[)
+[a link!](https://something.com)
+
+()[]
