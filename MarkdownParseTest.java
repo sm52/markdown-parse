@@ -15,6 +15,9 @@ public class MarkdownParseTest {
 
     @Test
     public void links() throws IOException {
+
+
+        
         ArrayList<String> output = new ArrayList<>();
         output.add("https://something.com");
         output.add("some-page.html");
